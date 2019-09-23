@@ -1,0 +1,53 @@
+body {
+    background: url(images/record.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+
+#content {
+    text-align: center;
+    padding-top: 35%;
+}
+
+h1, h3 {
+    color: white;
+    
+}
+
+h1 {
+    font-size: 150px;
+    font-family: "Futura";
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: -10px;
+    
+}
+
+h3 {
+    font-family: "Minimal";
+    font-weight: 100px;
+    text-transform: uppercase;
+    letter-spacing: 10px
+}
+
+hr {
+    border: .5px solid white;
+    
+
+}
+
+.navbar-brand {
+    font-family: "Futura";
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: -2px;
+    font-size: 2em;
+}
+
+.nav-item {
+    font-family: "Futura";
+    font-weight: 500;
+    text-transform: uppercase
+    
+}
+
+
